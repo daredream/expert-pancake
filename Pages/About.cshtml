@@ -1,0 +1,22 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.Message</h3>
+
+<form id="defaultPage" runat="server">
+<p>
+Your Message:
+<input id="txtUserMessage" type="text"/>
+</p>
+<p>
+
+<asp:GridView ID="carsGridView" runat="server">
+</asp:GridView>
+
+</form>
+
+<p>Use this areghgfhga to provide additional information.</p>
+

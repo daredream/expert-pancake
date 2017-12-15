@@ -1,0 +1,10 @@
+/home/bes/src/devel/expert-pancake/bin/Debug/netcoreapp2.0/expert-pancake.deps.json
+/home/bes/src/devel/expert-pancake/bin/Debug/netcoreapp2.0/expert-pancake.runtimeconfig.json
+/home/bes/src/devel/expert-pancake/bin/Debug/netcoreapp2.0/expert-pancake.runtimeconfig.dev.json
+/home/bes/src/devel/expert-pancake/bin/Debug/netcoreapp2.0/expert-pancake.dll
+/home/bes/src/devel/expert-pancake/bin/Debug/netcoreapp2.0/expert-pancake.pdb
+/home/bes/src/devel/expert-pancake/obj/Debug/netcoreapp2.0/expert-pancake.csproj.CoreCompileInputs.cache
+/home/bes/src/devel/expert-pancake/obj/Debug/netcoreapp2.0/expert-pancake.AssemblyInfoInputs.cache
+/home/bes/src/devel/expert-pancake/obj/Debug/netcoreapp2.0/expert-pancake.AssemblyInfo.cs
+/home/bes/src/devel/expert-pancake/obj/Debug/netcoreapp2.0/expert-pancake.dll
+/home/bes/src/devel/expert-pancake/obj/Debug/netcoreapp2.0/expert-pancake.pdb
